@@ -1,6 +1,6 @@
 # Adeboye's Laboratory of Ingenious Creations 🧪
 
-![Mad Scientist](https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif)
+![Mad Scientist](https://giphy.com/gifs/hello-adam-demamp-television-6yU7IF9L3950A)
 
 Welcome to the madhouse of brilliant blunders and occasional epiphanies! I'm Adeboye, your guide through this labyrinth of code, where bugs and features coexist in a love-hate relationship. 
 
@@ -25,8 +25,8 @@ Welcome to the madhouse of brilliant blunders and occasional epiphanies! I'm Ade
 
 ## Projects
 
-- **[Simple Calculator](https://github.com/AdedolapoAdeboye/tomato-py)**: A calculator that *actually* listens to you (unlike some people you know).
-- **[To-Do List Application](https://github.com/AdedolapoAdeboye/javis)**: For the overachiever in all of us, helping you pretend you have your life together.
+- **[Simple Calculator](https://github.com/hybridwealth/tomato-py)**: A calculator that *actually* listens to you (unlike some people you know).
+- **[To-Do List Application](https://github.com/hybridwealth/javis)**: For the overachiever in all of us, helping you pretend you have your life together.
 
 ## Services Offered 💼
 
