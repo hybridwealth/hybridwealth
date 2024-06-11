@@ -1,6 +1,6 @@
 # Adeboye's Laboratory of Ingenious Creations 🧪
 
-![Mad Scientist](https://giphy.com/clips/netflix-season-1-episode-squid-game-BKq0FieYJEwZ50s2jW/giphy.gif)
+![Mad Scientist](https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif)
 
 Welcome to the madhouse of brilliant blunders and occasional epiphanies! I'm Adeboye, your guide through this labyrinth of code, where bugs and features coexist in a love-hate relationship. 
 
