@@ -1,6 +1,6 @@
 # Adedolapo Abraham Adeboye: Your Go-To Graphics Designer and Programming Pro with a Twist of Humor
 
-Welcome to my corner of Fiverr, where creativity meets code and design dances with development! I'm Abraham Adebayo, your friendly neighborhood graphics designer and programming aficionado, here to bring your ideas to life with a sprinkle of sophistication and a dash of humor. Whether you need eye-catching graphics or robust code, I've got you covered. Let's embark on a journey to transform your visions into reality, one pixel and line of code at a time.
+Welcome to my corner of GitHub, where creativity meets code and design dances with development! I'm Abraham Adebayo, your friendly neighborhood graphics designer and programming aficionado, here to bring your ideas to life with a sprinkle of sophistication and a dash of humor. Whether you need eye-catching graphics or robust code, I've got you covered. Let's embark on a journey to transform your visions into reality, one pixel and line of code at a time.
 
 ## Who Am I?
 
@@ -38,9 +38,9 @@ Time is money, and I respect both. I ensure fast turnaround times without compro
 
 Ready to take your project to the next level? Let's collaborate and create something truly remarkable. Reach out to me with your ideas, and let's turn them into reality. Whether you need a sophisticated design, a robust piece of code, or just a good laugh, I'm here for you.
 
-Feel free to check out my portfolio, read reviews from happy clients, and drop me a message. I'm excited to work with you and bring your vision to life with a blend of professionalism, creativity, and a touch of humor.
+Feel free to check out my projects, read reviews from happy clients, and drop me a message. I'm excited to work with you and bring your vision to life with a blend of professionalism, creativity, and a touch of humor.
 
-Let's make your project not just successful but unforgettable. Click the "Order Now" button and let's get started!
+Let's make your project not just successful but unforgettable. Click the WhatsApp text and let's get started!
 
 ---
 
@@ -55,12 +55,12 @@ Let's make your project not just successful but unforgettable. Click the "Order 
 - **Twitter**: [@HybridWealth](https://x.com/HybridWealth?t=CrXNRDf2J3RgKcI2L9K54g&s=09)
 - **Upwork**: [Hire Me on Upwork](https://upwork.com/freelancers/adeboye)
 - **GitHub**: Well, you're already here, aren't you? 😏
-- **WhatsApp**: [Chat up on the Green app](https://wa.me/message/KL22F4OXM5VTK1)
+- **WhatsApp**: [Chat up on the Green app](https://wa.me/2349017049949)
 ## Join Me on This Adventure 🚀
 
 Feel free to explore, contribute, or just drop by to say hi. Let's build something amazing together (or at least something that doesn't crash)!
 
-**Adedolapo Abraham Adeboye:** Turning creativity and code into masterpieces, one project at a time – with a smile!
+* Turning creativity and code into masterpieces, one project at a time – with a smile!*
 ---
 
 *Disclaimer: No code was harmed in the making of this README. All bugs are purely coincidental and should be treated as features.*
