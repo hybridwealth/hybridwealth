@@ -1,53 +1,60 @@
 # Hi, I’m Adedolapo 👋
 
-A first-year Mechanical Engineering student at the University of Ibadan with a focused interest in **robotics, intelligent control systems, and simulation-driven engineering**.
+A first-year Mechanical Engineering student at the University of Ibadan with a focused interest in **Energy Engineering and Robotics**.
 
-I enjoy working at the intersection of **mathematical modelling, computation, and physical systems** — using code to understand dynamics, analyse behaviour, and design systems that can eventually be realised in hardware.
+I am passionate about the UN Sustainable Development Goals (SDGs) and how engineering can solve real-world problems. I enjoy working at the intersection of energy systems and intelligent automation—exploring how computational tools, robotics, and design can be used to optimize everything from renewable energy grids to traditional Oil & Gas and Nuclear infrastructure. 
 
-I am deliberately building a strong analytical and computational foundation for future work in robotics and control.
+As a student, I am deliberately building a strong foundation in CAD, coding, and mechanical principles to eventually contribute to a more efficient and sustainable energy space.
 
 ---
 
 ## 🔧 Areas of Interest
-- Robotics and intelligent control systems  
-- Dynamics, modelling, and simulation of mechanical systems  
-- Control theory and system behaviour  
-- Numerical methods and computational engineering  
-- Manufacturing systems and industrial automation  
+- **Energy Engineering:** Renewable energy, Oil & Gas, and Nuclear systems
+- **Robotics & Automation:** Applying intelligent control systems to energy infrastructure
+- **Computational Engineering:** Using code for modelling and simulation of physical systems
+- **Sustainable Development:** Actively contributing to the UN SDGs through engineering solutions
 
 ---
 
 ## 💻 Tools and Technologies
-- **Programming:** Python  
-- **Development Platforms:** Microsoft Azure instances, Termux  
+- **Programming & Automation:** Python
+- **Design & Drafting:** CAD, 2D Drafting, Onshape, FreeCAD
+- **Development Platforms:** Microsoft Azure instances, Termux
 - **Version Control:** Git & GitHub
-- **Design, Modelling, & Simulation:** Onshape, FreeCAD.
 
 ---
 
 ## 🚀 Current Focus
-- Developing Python-based systems  
+- Building a solid foundation in computational engineering and 3D design.
+- Developing Python-based scripts to understand dynamics and automate simple systems.
 
 ---
 
-## 🧭 Learning Roadmap (Robotics & Control)
+## 🧭 Learning Roadmap (Energy & Robotics)
 
 **Short-term**
-- Python for scientific computing  
-- NumPy, Matplotlib, data visualisation  
-- Modelling & Simulation of basic mechanical systems  
+- Mastering Python for scientific computing and automation
+- Enhancing 3D design and CAD skills (Onshape, FreeCAD)
+- Fundamental modelling of basic mechanical and energy systems
 
 **Mid-term**
-- Control systems fundamentals  
-- Numerical integration methods  
-- Introductory ROS 2 workflows  
-- Kinematics of robotic arms and mobile robots  
+- Exploring thermodynamics and fluid mechanics for energy applications
+- Control systems fundamentals and introductory robotics
+- Understanding the mechanics of renewable and non-renewable energy generation
 
 **Long-term**
-- Intelligent and optimal control  
-- State estimation and sensor fusion  
-- Simulation-to-hardware robotics pipelines  
-- Research-oriented modelling and algorithm development  
+- Integrating robotics and automation into Oil & Gas and Renewable sectors
+- Simulation-to-hardware pipelines for intelligent control systems
+- Research-oriented algorithm development for energy efficiency
+
+---
+
+## 🤝 Affiliations & Leadership
+I am actively involved in the engineering community and currently serve as the **AGS-Elect for AMES and NIMechE-UI**. I am also a proud student member of:
+- **NSE** (smNSE) & **NIPES**
+- **ASME** & **IMechE**
+- **SPE** (Society of Petroleum Engineers)
+- **Energy Club UI**
 
 ---
 
@@ -58,6 +65,7 @@ I am deliberately building a strong analytical and computational foundation for 
 
 <!-- Top Languages Card -->
 [![Top Languages](https://github-readme-stats-sigma-flax-75.vercel.app/api/top-langs/?username=a-adeboye&layout=compact)](https://github.com/a-adeboye)
+
 ---
 
 ## 📫 Contact
